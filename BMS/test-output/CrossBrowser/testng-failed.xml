@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [CrossBrowser]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="ChromeBrowser Test(failed)">
+    <classes>
+      <class name="testCases.TC_001_LogOut">
+        <methods>
+          <include name="logout"/>
+          <include name="logoutTest"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- testCases.TC_001_LogOut -->
+      <class name="testCases.TC_002_AddLead">
+        <methods>
+          <include name="AddLead"/>
+          <include name="logout"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- testCases.TC_002_AddLead -->
+    </classes>
+  </test> <!-- ChromeBrowser Test(failed) -->
+  <test thread-count="5" name="EdgeBrowser Test(failed)">
+    <classes>
+      <class name="testCases.TC_001_LogOut">
+        <methods>
+          <include name="logout"/>
+          <include name="logoutTest"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- testCases.TC_001_LogOut -->
+      <class name="testCases.TC_002_AddLead">
+        <methods>
+          <include name="AddLead"/>
+          <include name="logout"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- testCases.TC_002_AddLead -->
+    </classes>
+  </test> <!-- EdgeBrowser Test(failed) -->
+</suite> <!-- Failed suite [CrossBrowser] -->

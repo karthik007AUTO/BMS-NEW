@@ -1,0 +1,94 @@
+17:09:06.252 [main] INFO  testCases.TC_001_LogOut - *** Started TC_001_LogOut ***
+17:09:10.930 [main] INFO  testCases.TC_001_LogOut - Clicked on menu icon
+17:09:11.010 [main] INFO  testCases.TC_001_LogOut - Clicked on logout option
+17:09:11.010 [main] INFO  testCases.TC_001_LogOut - *** Finished TC_001_LogOut ***
+17:09:22.633 [main] INFO  testCases.TC_002_AddLead - *** Started TC_002_AddLead ***
+17:09:27.631 [main] INFO  testCases.TC_002_AddLead - clicked on AddLead
+17:09:27.846 [main] INFO  testCases.TC_002_AddLead - Entered First Name
+17:09:27.935 [main] INFO  testCases.TC_002_AddLead - Entered Last name
+17:09:28.029 [main] INFO  testCases.TC_002_AddLead - Clicked on Save Button
+17:09:28.029 [main] INFO  testCases.TC_002_AddLead - *** Finished TC_002_AddLead ***
+17:09:39.445 [main] INFO  testCases.TC_003_DeleteLead - *** Started TC_003_DeleteLead ***
+17:09:44.868 [main] INFO  testCases.TC_003_DeleteLead - Clicked on a Lead
+17:09:45.602 [main] INFO  testCases.TC_003_DeleteLead - Clicked on a Delete
+17:09:45.665 [main] INFO  testCases.TC_003_DeleteLead - Clicked on Yes Delete it
+17:09:46.018 [main] INFO  testCases.TC_003_DeleteLead - Clicked on OK 
+17:09:46.018 [main] INFO  testCases.TC_003_DeleteLead - *** Finished TC_003_DeleteLead ***
+17:09:56.503 [main] INFO  testCases.TC_004_AddAgent - *** Started TC_004_Create Agent ***
+17:10:01.370 [main] INFO  testCases.TC_004_AddAgent - *** Clicked on My Agent ***
+17:10:01.992 [main] INFO  testCases.TC_004_AddAgent - *** Clicked on add agent Icon ***
+17:10:02.121 [main] INFO  testCases.TC_004_AddAgent - *** Entered First Name ***
+17:10:02.257 [main] INFO  testCases.TC_004_AddAgent - *** Entered Last Name ***
+17:10:02.531 [main] INFO  testCases.TC_004_AddAgent - *** Entered Email Address ***
+17:10:02.648 [main] INFO  testCases.TC_004_AddAgent - *** Entered Number ***
+17:10:02.725 [main] INFO  testCases.TC_004_AddAgent - *** Finished TC_004_Create Agent ***
+17:10:14.319 [main] INFO  testCases.TC_005_AddAdmin - *** Started TC_005_AddAdmin ***
+17:10:19.758 [main] INFO  testCases.TC_005_AddAdmin - *** Clicked on MyAdmins in Homepage ***
+17:10:20.117 [main] INFO  testCases.TC_005_AddAdmin - *** Clicked on AddAdmin Icon ***
+17:10:20.406 [main] INFO  testCases.TC_005_AddAdmin - *** Clicked on Drop Down Option ***
+17:10:20.612 [main] INFO  testCases.TC_005_AddAdmin - *** Entered First Name ***
+17:10:20.713 [main] INFO  testCases.TC_005_AddAdmin - *** Entered Last Name ***
+17:10:20.839 [main] INFO  testCases.TC_005_AddAdmin - *** Entered Number ***
+17:10:20.963 [main] INFO  testCases.TC_005_AddAdmin - *** Clicked on Save ***
+17:10:20.963 [main] INFO  testCases.TC_005_AddAdmin - *** Finished TC_005_AddAdmin ***
+17:10:32.728 [main] INFO  testCases.TC_006_AttachFile - *** Started TC_006_Attach File ***
+17:10:38.288 [main] INFO  testCases.TC_006_AttachFile - clicked on AddLead
+17:10:38.504 [main] INFO  testCases.TC_006_AttachFile - Entered First Name
+17:10:38.586 [main] INFO  testCases.TC_006_AttachFile - Entered Last name
+17:10:39.788 [main] INFO  testCases.TC_006_AttachFile -  Attach Completed
+17:10:39.872 [main] INFO  testCases.TC_006_AttachFile - Clicked on SAVE Button
+17:10:39.872 [main] INFO  testCases.TC_006_AttachFile - *** Finished TC_006_Attach File ***
+17:10:51.827 [main] INFO  testCases.TC_007_AddComment - *** Started TC_007_Add Comment ***
+17:10:57.275 [main] INFO  testCases.TC_007_AddComment -  Clicked on a Lead 
+17:10:57.604 [main] INFO  testCases.TC_007_AddComment -  Written a Comment 
+17:10:57.992 [main] INFO  testCases.TC_007_AddComment -  Clicked on Post Button 
+17:10:58.105 [main] INFO  testCases.TC_007_AddComment -  Clicked on Yes in PopUp 
+17:10:58.469 [main] INFO  testCases.TC_007_AddComment -  Clicked on OK in PopUp 
+17:10:58.470 [main] INFO  testCases.TC_007_AddComment - *** Finished TC_007_Add Comment ***
+18:48:23.393 [main] INFO  testCases.TC_001_LogOut - *** Started TC_001_LogOut ***
+18:48:28.911 [main] INFO  testCases.TC_001_LogOut - Clicked on menu icon
+18:48:29.019 [main] INFO  testCases.TC_001_LogOut - Clicked on logout option
+18:48:29.019 [main] INFO  testCases.TC_001_LogOut - *** Finished TC_001_LogOut ***
+18:48:41.544 [main] INFO  testCases.TC_002_AddLead - *** Started TC_002_AddLead ***
+18:48:48.008 [main] INFO  testCases.TC_002_AddLead - clicked on AddLead
+18:48:48.210 [main] INFO  testCases.TC_002_AddLead - Entered First Name
+18:48:48.290 [main] INFO  testCases.TC_002_AddLead - Entered Last name
+18:48:48.382 [main] INFO  testCases.TC_002_AddLead - Clicked on Save Button
+18:48:48.382 [main] INFO  testCases.TC_002_AddLead - *** Finished TC_002_AddLead ***
+18:48:59.161 [main] INFO  testCases.TC_003_DeleteLead - *** Started TC_003_DeleteLead ***
+18:49:05.960 [main] INFO  testCases.TC_003_DeleteLead - Clicked on a Lead
+18:49:06.720 [main] INFO  testCases.TC_003_DeleteLead - Clicked on a Delete
+18:49:06.840 [main] INFO  testCases.TC_003_DeleteLead - Clicked on Yes Delete it
+18:49:07.169 [main] INFO  testCases.TC_003_DeleteLead - Clicked on OK 
+18:49:07.169 [main] INFO  testCases.TC_003_DeleteLead - *** Finished TC_003_DeleteLead ***
+18:49:19.352 [main] INFO  testCases.TC_004_AddAgent - *** Started TC_004_Create Agent ***
+18:49:26.293 [main] INFO  testCases.TC_004_AddAgent - *** Clicked on My Agent ***
+18:49:26.920 [main] INFO  testCases.TC_004_AddAgent - *** Clicked on add agent Icon ***
+18:49:27.051 [main] INFO  testCases.TC_004_AddAgent - *** Entered First Name ***
+18:49:27.257 [main] INFO  testCases.TC_004_AddAgent - *** Entered Last Name ***
+18:49:27.411 [main] INFO  testCases.TC_004_AddAgent - *** Entered Email Address ***
+18:49:27.519 [main] INFO  testCases.TC_004_AddAgent - *** Entered Number ***
+18:49:27.602 [main] INFO  testCases.TC_004_AddAgent - *** Finished TC_004_Create Agent ***
+18:49:39.386 [main] INFO  testCases.TC_005_AddAdmin - *** Started TC_005_AddAdmin ***
+18:49:45.154 [main] INFO  testCases.TC_005_AddAdmin - *** Clicked on MyAdmins in Homepage ***
+18:49:45.517 [main] INFO  testCases.TC_005_AddAdmin - *** Clicked on AddAdmin Icon ***
+18:49:45.709 [main] INFO  testCases.TC_005_AddAdmin - *** Clicked on Drop Down Option ***
+18:49:45.963 [main] INFO  testCases.TC_005_AddAdmin - *** Entered First Name ***
+18:49:46.066 [main] INFO  testCases.TC_005_AddAdmin - *** Entered Last Name ***
+18:49:46.183 [main] INFO  testCases.TC_005_AddAdmin - *** Entered Number ***
+18:49:46.309 [main] INFO  testCases.TC_005_AddAdmin - *** Clicked on Save ***
+18:49:46.309 [main] INFO  testCases.TC_005_AddAdmin - *** Finished TC_005_AddAdmin ***
+18:49:58.302 [main] INFO  testCases.TC_006_AttachFile - *** Started TC_006_Attach File ***
+18:50:04.091 [main] INFO  testCases.TC_006_AttachFile - clicked on AddLead
+18:50:04.242 [main] INFO  testCases.TC_006_AttachFile - Entered First Name
+18:50:04.305 [main] INFO  testCases.TC_006_AttachFile - Entered Last name
+18:50:05.551 [main] INFO  testCases.TC_006_AttachFile -  Attach Completed
+18:50:05.662 [main] INFO  testCases.TC_006_AttachFile - Clicked on SAVE Button
+18:50:05.662 [main] INFO  testCases.TC_006_AttachFile - *** Finished TC_006_Attach File ***
+18:50:17.399 [main] INFO  testCases.TC_007_AddComment - *** Started TC_007_Add Comment ***
+18:50:24.592 [main] INFO  testCases.TC_007_AddComment -  Clicked on a Lead 
+18:50:24.923 [main] INFO  testCases.TC_007_AddComment -  Written a Comment 
+18:50:25.257 [main] INFO  testCases.TC_007_AddComment -  Clicked on Post Button 
+18:50:25.372 [main] INFO  testCases.TC_007_AddComment -  Clicked on Yes in PopUp 
+18:50:25.726 [main] INFO  testCases.TC_007_AddComment -  Clicked on OK in PopUp 
+18:50:25.726 [main] INFO  testCases.TC_007_AddComment - *** Finished TC_007_Add Comment ***
